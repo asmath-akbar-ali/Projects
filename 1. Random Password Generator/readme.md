@@ -13,5 +13,6 @@ This project generates secure, random passwords that combine various character t
 ## Motivation
 Creating secure passwords is essential for personal and data security. This tool helps users generate random, strong passwords to enhance security practices and protect online accounts.
 
+## Screenshots 
 ![Password Generator Preview](images/img1.png)
 ![Password Generator Preview](images/img2.png)
