@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA:wght@100..400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+	background: #edeaff;
+	font-family: "Playwrite AU SA", serif;
+}
+
+.stopwatch{
+	width: 90%;
+	max-width: 600px;
+	background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(images/background.png);
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	padding: 40px 0;
+	color: white;
+	margin: 200px auto 0;
+	box-shadow: 0 10px 10px rgba(0,0,0,0.2);	
+}
+
+.stopwatch h1{
+	font-weight: 300;
+	font-size: 64px;
+	margin-top: 60px;
+}
+
+.buttons{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.buttons img{
+	width: 50px;
+	cursor: pointer;
+	margin: 0 20px;
+}
+
+.buttons img:nth-child(2){
+	width: 70px;
+}
+
